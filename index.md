@@ -3,7 +3,7 @@ layout: home
 permalink: /
 title: ""
 image:
-  feature: NYC.PNG
+  feature: NYC.png
 ---
 
 <div class="tiles">
