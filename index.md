@@ -13,7 +13,7 @@ image:
 </div><!-- /.tiles -->
 
 <figure>
-    <img src="/images/me.jpg"
+    <img src="/images/me.JPG"
          alt="Kyle" width = 300> 
     <figcaption>Kyle Ford, circa recently.</figcaption>
 </figure>
